@@ -1,1 +1,37 @@
+#img1{
+    width: 100px;
+    position: absolute;
+    right: 200px;
+    top: 500px;
+}
 
+#img2{
+    width: 100px;
+    position: absolute;
+    right: 500px;
+    top: 100px;
+}
+#img3{
+    width: 100px;
+    position: absolute;
+    right: 200px;
+    top: 500px;
+}
+#img4{
+    width: 100px;
+    position: absolute;
+    right: 400px;
+    top: 200px;
+}
+#img5{
+    width: 100px;
+    position: absolute;
+    right: 200px;
+    top: 500px;
+}
+#img6{
+    width: 100px;
+    position: absolute;
+    right: 200px;
+    top: 500px;
+}
