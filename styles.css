@@ -1,21 +1,25 @@
 #img1{
-    width: 300px;
+    width: 550px;
     position: absolute;
-    right: 80%;
+    right: 75%;
     top: 450px;
+    border-radius: 8px;
 }
 
 #img2{
-    width: 100px;
+    width: 550px;
     position: absolute;
-    right: 300px;
-    top: 400px;
+    right: 60%;
+    top: 270px;
+    border-radius: 8px;
 }
 #img3{
-    width: 100px;
+    width: 550px;
     position: absolute;
-    right: 400px;
-    top: 300px;
+    right: 41%;
+    top: 450px;
+    border-radius: 8px;
+}
 }
 #img4{
     width: 100px;
