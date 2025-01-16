@@ -20,7 +20,7 @@
     top: 450px;
     border-radius: 8px;
 }
-}
+
 #img4{
     width: 100px;
     position: absolute;
@@ -38,4 +38,11 @@
     position: absolute;
     right: 700px;
     top: 500px;
+}
+
+body{
+    background-color: #ffd700;
+}
+header{
+    background-color: #ffd700;
 }
